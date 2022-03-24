@@ -29,3 +29,4 @@ Currently, I work as a software developer. I am interested in mobile application
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ph7fvwlmtvelek2dfqworea&cover_image=true&theme=default)
