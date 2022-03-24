@@ -30,5 +30,5 @@ Currently, I work as a software developer. I am interested in mobile application
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <p align="left">
-   <iframe src="https://open.spotify.com/embed/track/2oBMZYteeO8DyXV9gDx6Za" width="50%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21ph7fvwlmtvelek2dfqworea&cover_image=false&theme=default">
 </p>
