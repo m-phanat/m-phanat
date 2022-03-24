@@ -1,6 +1,6 @@
 # HELLO HUMAN
 
-![banner](./image/banner.png)
+![banner](./image/banner_new.png)
 
 I graduated from Chiang Mai University with a bachelor's degree in Bachelor of Computer Science.
 Currently, I work as a software developer. I am interested in mobile application development.
