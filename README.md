@@ -1,4 +1,4 @@
-# HELLO HUMAN
+# Hi I am Phanat
 
 ![banner](./image/banner_new.png)
 
