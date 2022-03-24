@@ -1,4 +1,4 @@
-# Hi I am Phanat
+# HELLO EVERYONE
 
 ![banner](./image/banner_new.png)
 
